@@ -3,3 +3,4 @@ This is the new line
 This is the another line
 Hello world!
 hello again!
+This is the new line
