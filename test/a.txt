@@ -1,7 +1,6 @@
 Hello there!
-Hello world!!!
+Hello world
 This is the new line
 This is the another line
 hello again!
-This is the new line
-This is the last line
+let's try again
